@@ -53,6 +53,7 @@ public class QuantumBookstoreApp {
         // }
         AppScenario[] scenarios = {
             new NormalScenario(),
+            new InsufficientBalanceScenario(),
             new NotEnoughBookAfterPreviousPurchaseScenario(),
             new BookNotInInventoryScenario(),
             new RemovingOutdatedBooksScenario()
