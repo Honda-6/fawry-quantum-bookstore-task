@@ -101,4 +101,5 @@ This project demonstrates:
 *This project was developed as part of the Fawry fullstack software development internship program.*
 
 
-![QuantumBookstoreRunning](https://github.com/user-attachments/assets/10f252b1-0b3e-4939-af61-7e888c772136)
+![Example](https://github.com/user-attachments/assets/5b7f79a2-9d81-46c6-bb73-6c913c2c98ae)
+
